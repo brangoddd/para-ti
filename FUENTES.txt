@@ -1,0 +1,12 @@
+Fuentes y fotografías utilizadas
+
+Cormorant Garamond y Allura: Google Fonts, licencia SIL Open Font License incluida en assets.
+https://github.com/google/fonts/tree/main/ofl/cormorantgaramond
+https://github.com/google/fonts/tree/main/ofl/allura
+
+Fotografías oficiales de miniaturas Hot Wheels, Mattel Creations:
+BMW M3 azul: https://creations.mattel.com/products/rlc-exclusive-2006-bmw-m3-gxj28
+Nissan Skyline: https://creations.mattel.com/products/hot-wheels-rlc-nissan-skyline-gt-r-r34-hwf14
+
+Las fotografías se conservan sin cambios; garden.js usa una silueta SVG para presentarlas en el ramo.
+Las flores y animaciones están construidas con código. Las imágenes y fuentes están guardadas localmente.
