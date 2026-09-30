@@ -190,6 +190,7 @@ abrir.addEventListener('click', async () => {
   portada.classList.add('opening');
   const pause = ms => new Promise(resolve => setTimeout(resolve, reducedMotion.matches ? 0 : ms));
   await pause(950);
+  await new Promise(resolve => setTimeout(resolve, 2000));
   portada.classList.add('leaving');
   await pause(500);
   portada.hidden = true;
