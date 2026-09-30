@@ -10,3 +10,6 @@ Nissan Skyline: https://creations.mattel.com/products/hot-wheels-rlc-nissan-skyl
 
 Las fotografías se conservan sin cambios; garden.js usa una silueta SVG para presentarlas en el ramo.
 Las flores y animaciones están construidas con código. Las imágenes y fuentes están guardadas localmente.
+
+Logo Hot Wheels, marca de Mattel, obtenido de Wikimedia:
+https://en.wikipedia.org/wiki/File:Hot_Wheels_logo-en.svg
